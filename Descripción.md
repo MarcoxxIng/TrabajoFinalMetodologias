@@ -13,7 +13,7 @@ Requisitos:
 
 4. Persistencia de datos: Si se desea permitir el seguimiento de puntuaciones o guardar registros de partidas anteriores, la aplicación debe contar con algún mecanismo para almacenar y recuperar estos datos.
 
-Instrucciones de instalación:
+Guia de utilización:
 1. El juego comienza ocultando una palabra seleccionada al azar de una lista de palabras predefinida.
 
 2. El jugador debe adivinar la palabra letra por letra. Puede ingresar una letra a la vez o intentar adivinar la palabra completa.
@@ -25,3 +25,6 @@ Instrucciones de instalación:
 5. El jugador continúa adivinando letras hasta que adivine correctamente la palabra completa o se agoten los intentos.
 
 6. Si el jugador adivina la palabra completa, gana la partida. Si se agotan los intentos sin adivinar la palabra completa, pierde la partida.
+
+Instrucciones de instalación:
+Es un archivo de eclipse, por lo que deberás de abrir el código y darle al botón 'run' para que el juego funcione en consola. 
