@@ -28,5 +28,4 @@ Guia de utilización:
 6. Si el jugador adivina la palabra completa, gana la partida. Si se agotan los intentos sin adivinar la palabra completa, pierde la partida.
 
 Instrucciones de instalación:
-
 Es un archivo de eclipse, por lo que deberás de abrir el código y darle al botón 'run' para que el juego funcione en consola. 
