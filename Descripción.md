@@ -1,6 +1,7 @@
 # TrabajoFinalMetodologias
 
 Dentro del zip viene el código, y dentro los comentarios en los cuales pone dónde empieza uno y acaba el otro, hemos puesto casi todo lo que hemos ido haciendo.
+
 Descripción: 
 El juego del ahorcado es un clásico juego de palabras en el que un jugador debe adivinar una palabra oculta letra por letra antes de que se complete un dibujo del ahorcado. El jugador tiene un número limitado de intentos para adivinar la palabra antes de que se complete el dibujo del ahorcado, y si no lo logra, perderá la partida.
 
